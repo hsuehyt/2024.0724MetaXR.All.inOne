@@ -9,13 +9,10 @@ This Unity project is designed to be experienced on an Oculus Quest headset. The
 1. **Unity Hub**: Download and install Unity Hub to manage your Unity projects and installations.
    - [Download Unity Hub](https://public-cdn.cloud.unity3d.com/hub/prod/UnityHubSetup.exe)
 
-2. **Unity Editor**: Install the Unity Editor. The minimal required version is 2021.3.26f1.
+2. **Unity Editor**: Install the Unity Editor via Unity Hub. The minimal required version is 2021.3.26f1.
    - [Download Unity Editor 2021.3.26f1](https://download.unity3d.com/download_unity/a16dc32e0ff2/Windows64EditorInstaller/UnitySetup64-2021.3.26f1.exe)
 
-3. **Meta XR All-in-One SDK**: Install the Meta XR All-in-One SDK from the Unity Asset Store.
-   - [Meta XR All-in-One SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-all-in-one-sdk-269657)
-
-4. **Meta Quest Link**: Install and set up Meta Quest Link to connect your Oculus Quest headset to your PC.
+3. **Meta Quest Link**: Install and set up Meta Quest Link to connect your Oculus Quest headset to your PC.
    - [Meta Quest Link](https://www.oculus.com/lynx/?u=https%3A%2F%2Fwww.meta.com%2Fhelp%2Fquest%2Farticles%2Fheadsets-and-accessories%2Foculus-link%2Frequirements-quest-link%2F&e=AT3WN53gV5HKHNvw1eBbI-PmQejYP07COdSGEyF0ONhL8rSwBj1IjNWbAwHKjJladI_vaqSBYKfUOHrj4Va2snnQtH-fZx0knSZ3ovOqWViM66mIcLFMS0A_Agw3E-FSLBokmsGps6RF3WXuPzghFg)
    - [Using Meta Quest Link for App Development](https://developer.oculus.com/documentation/unity/unity-link/)
 
