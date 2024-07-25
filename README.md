@@ -40,5 +40,6 @@ This Unity project is designed to be experienced on an Oculus Quest headset. The
 
 ## Experiencing the Scene
 
-- **Bouncing Ball**: Watch the ball bounce around in the environment.
-- **Teleporter**: Use the teleporter to move around the 360-degree scene and explore the surroundings.
+- **Bouncing Ball**: Watch the ball bounce endlessly in the original position.
+- **Contrller Teleporter**: Teleport to different locations and rotate with your controller in VR.
+- **Spatial Sound Effect**: Experience sound effects that are spatialized so that the direction and distance can be discerned.
