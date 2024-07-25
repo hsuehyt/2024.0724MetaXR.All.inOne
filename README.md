@@ -1,7 +1,3 @@
-Here's a README for your Unity project that can be played on an Oculus Quest headset:
-
----
-
 # 2024.0724MetaXR.All.inOne
 
 ## Overview
